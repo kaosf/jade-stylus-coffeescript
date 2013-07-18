@@ -1,0 +1,16 @@
+{
+  "name": "jade-stylus-coffeescript",
+  "version": "0.0.0",
+  "description": "Jade Stylus CoffeeScript",
+  "keywords": [
+    "jade",
+    "stylus",
+    "coffee-script"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kaosf/jade-stylus-coffeescript.git"
+  },
+  "author": "ka",
+  "license": "MIT"
+}
