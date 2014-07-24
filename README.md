@@ -28,3 +28,9 @@ grunt
 * [gruntjs/grunt-contrib-stylus](https://github.com/gruntjs/grunt-contrib-stylus)
 * [CoffeeScript](http://coffeescript.org/)
 * [gruntjs/grunt-contrib-coffee](https://github.com/gruntjs/grunt-contrib-coffee)
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (C) 2014 ka
